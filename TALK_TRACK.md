@@ -28,7 +28,7 @@ The retailer had the right tent, at the right price, in stock. They lost the sal
 
 "This is what we solve with Vercel Shop, our storefront for Shopify. Same store, same product link. A person gets the beautiful product page on the left. An agent gets this on the right: the real price, what's in stock, the options, delivery. No guessing.
 
-One customer put it perfectly: one store, two kinds of shoppers."
+Someone on X put it perfectly: one store, two kinds of shoppers."
 
 *Click "Let the agent shop".*
 
